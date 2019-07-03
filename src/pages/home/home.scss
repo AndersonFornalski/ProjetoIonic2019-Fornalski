@@ -1,3 +1,22 @@
 page-home {
 
+    h2{
+        text-align: center;
+        color: blue;       
+    }
+    h2:hover{
+        color: orangered;
+        background-size: 15%;
+        background-color: black;
+        font-weight: bold;
+        font-style: italic;
+    }
+    img{
+        width: 800px;
+        align-self: center;
+        margin: auto;
+        display: block;
+        padding: 10px;
+
+    }
 }
