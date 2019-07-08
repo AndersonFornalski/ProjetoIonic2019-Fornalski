@@ -1,5 +1,4 @@
 export interface CategoriaDto{
     id: String;
-    nome: String;
-    
+    nome: String;    
 }
